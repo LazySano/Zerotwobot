@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-[![Description]()](https://zerotwo.sekaiplus.com/commands 'Zerotwo Commands')
+[![Description](https://i.imgur.com/fDKTqqQ.jpg)](https://zerotwo.sekaiplus.com/commands 'Zerotwo Commands')
 
 </div>
 
