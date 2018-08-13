@@ -1,5 +1,5 @@
 <div align='center'>
-[![Zerotwo Logo Dark]()](https://discord.gg/PFyfkg6 'Zerotwo Bot')
+هذا المشروع تطوير لتقنيات مُستنسخة من بوتات أخرى قد تجد تشابه كبير بين خصائص هذا البوت و بوتات أخرى
 </div>
 <div align='center'>
 
