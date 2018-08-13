@@ -15,7 +15,7 @@
 
 <div alight='center'>
 
-[![Donate to Zerotwo Bot Project]()](https://www.patreon.com/Sekaiplus 'Support the development of Zerotwo Bot Project')
+[![Donate to Zerotwo Bot Project](https://i.imgur.com/NBMyXjO.jpg)](https://www.patreon.com/Sekaiplus 'Support the development of Zerotwo Bot Project')
 
 </div>
 
