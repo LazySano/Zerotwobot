@@ -1,4 +1,4 @@
-[![Zerotwo Logo Dark]()](https://discord.gg/PFyfkg6 'Zerotwo Bot')
+[![Zerotwo Logo Dark](https://i.imgur.com/e78A9Q5.jpg)](https://discord.gg/PFyfkg6 'Zerotwo Bot')
 
 <div align='center'>
 
