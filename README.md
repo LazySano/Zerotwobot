@@ -1,21 +1,21 @@
-[![Zerotwo Logo Dark](https://i.imgur.com/e78A9Q5.jpg)](https://discord.gg/PFyfkg6 'Zerotwo Bot')
+[![Zerotwo Logo Dark]()](https://discord.gg/PFyfkg6 'Zerotwo Bot')
 
 <div align='center'>
 
-[![Description](https://i.imgur.com/fDKTqqQ.jpg)](https://zerotwo.sekaiplus.com/commands 'Zerotwo Commands')
+[![Description]()](https://zerotwo.sekaiplus.com/commands 'Zerotwo Commands')
 
 </div>
 
 <div align='center'>
 
 [![Add Zerotwo to Discord](https://i.imgur.com/RMXPGk9.png)](https://zerotwo.sekaiplus.com/add 'Add Zerotwo to Discord')
-[![Join Mirai - The future](https://i.imgur.com/1lNl4gh.png)](https://discord.gg/PFyfkg6 'Join Mirai - The future')
+[![Join Mirai - The future]()](https://discord.gg/PFyfkg6 'Join Mirai - The future')
 
 </div>
 
 <div alight='center'>
 
-[![Donate to Zerotwo Bot Project](https://i.imgur.com/NBMyXjO.jpg)](https://www.patreon.com/Sekaiplus 'Support the development of Zerotwo Bot Project')
+[![Donate to Zerotwo Bot Project]()](https://www.patreon.com/Sekaiplus 'Support the development of Zerotwo Bot Project')
 
 </div>
 
